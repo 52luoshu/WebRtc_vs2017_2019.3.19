@@ -1,0 +1,15 @@
+{
+  "format_version": "1.1",
+  "package_name": "infra/tools/luci/isolate/windows-amd64",
+  "version_file": ".versions/isolate.exe.cipd_version",
+  "files": [
+    {
+      "name": "isolate.exe",
+      "size": 11880448
+    },
+    {
+      "name": ".versions/isolate.exe.cipd_version",
+      "size": 127
+    }
+  ]
+}
